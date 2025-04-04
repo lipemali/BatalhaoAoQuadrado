@@ -6,7 +6,7 @@ Este é o repositório oficial do Modpack Batalhão ao Quadrado, para Minecraft 
 
 1. Baixe um launcher de instâncias de Minecraft, sugiro o [UltimMC](https://nightly.link/UltimMC/Launcher/workflows/main/develop) (para minecraft original e pirata)
 
-2. Baixe o [Modpack](https://www.dropbox.com/scl/fi/gm3u98918mu5f3pmtl33y/BatalhaoAoQuadrado.zip?rlkey=6a5yzdm0t738ynt94ugzkg1gu&st=w37sry2d&dl=0)(Arquivo Zip)
+2. Baixe o [Modpack](https://www.dropbox.com/scl/fi/k24avzh3q0w5hmifoo0ch/BatalhaoAoQuadrado.zip?rlkey=varrnks8idbvz3yhma85l24nz&st=jnzyak3v&dl=0)(Arquivo Zip)
 
 3. Importe o arquivo ZIP no UltimMC. Após isso, é só abrir o jogo e começar a jogar!
 
