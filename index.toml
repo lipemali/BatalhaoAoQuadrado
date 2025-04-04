@@ -81,6 +81,11 @@ hash = "15aa420ec9cf1482e0bcce52197f1f7f6208a3fead0dfabbdf655e122494040f"
 metafile = true
 
 [[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "8ec249c1e2aaac6bf623263036059908f66769ca70e90dd854de483424cedd0a"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "f6d29f90b25217bc2d152faca2ad1514bd57fb1d0737fd17f050d59292077d7f"
 metafile = true
